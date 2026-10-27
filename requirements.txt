@@ -1,0 +1,6 @@
+numpy
+pandas
+scikit-learn
+matplotlib
+# Optional - only for the real generative-AI demo in Experiment 2:
+# anthropic
